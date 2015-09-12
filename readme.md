@@ -12,3 +12,7 @@ Unfortunately, there has to be a cutoff point and we can't showcase all of the i
 Thanks again for your contribution, and we hope that you can still come along on the night - there's a ticket in your name on the guest list by way of saying thanks.
 
 The Ignite XYZ team
+
+
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
